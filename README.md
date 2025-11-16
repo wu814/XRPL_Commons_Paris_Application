@@ -1,4 +1,4 @@
-# YONA
+# YONA LLC
 
 **YONA** is a payment orchestration layer for virtual (crypto, digital) asset service providers (VASPs) and KYC verified self-hosted wallets. 
 
