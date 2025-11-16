@@ -4,7 +4,7 @@
 
 > **Note:** We are not a money-transmitter, bank, custodian, or wallet-service provider. Instead, we offer a universal medium for users of varying wallet types and providers to connect for low-cost, compliant virtual asset transfers.
 
-**This** repo has been shortened for the application to provide a simple overview of the system architecture and non proprietary logic.
+This repo has been shortened for the application to provide a simple overview of the system architecture and non proprietary logic.
 ---
 
 ## InterVASP Transaction Flow Demo (Click image to view video)
