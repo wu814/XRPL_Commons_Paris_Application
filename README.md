@@ -1,4 +1,4 @@
-YONA (Your DeFi Platform) is a Virtual Asset Service Provider (VASP) payment platform that facilitates inter-VASP and intra-VASP payments on the XRP Ledger (XRPL). 
+YONA is a payment orchestration layer for virtual (crypto, digital) asset service providers (VASPs) and KYC verified self-hosted wallets. We are not a money-transmitter, bank, custodian, or wallet-service provider. Instead, we offer a universal medium for users of varying wallet types and providers to connect for low-cost, compliant virtual asset transfers.
 
 
 Link to Demo Video: https://youtu.be/ip_x4X-gBPs
