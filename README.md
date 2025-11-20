@@ -18,8 +18,7 @@ This repo has been shortened for the application to provide a simple overview of
 
 📄 **Presentation Deck**  [Download the PDF](YONA%20LLC.pdf)
 
-> For clickable hyperlinks, please download the **raw PDF file** from the GitHub viewer (press “Download raw file”).  
-> GitHub’s built-in PDF viewer disables link interactivity.
+> For clickable hyperlinks, please download the **raw PDF file** from the GitHub viewer (press “Download raw file”). GitHub’s built-in PDF viewer disables link interactivity.
 <img width="1270" height="701" alt="slide" src="https://github.com/user-attachments/assets/d7a7826e-857e-4c0d-954b-2cbd6ec2ae62" />
 
 
