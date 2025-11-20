@@ -15,10 +15,11 @@ This repo has been shortened for the application to provide a simple overview of
 ---
 
 ## Documentation
-  
-**📊 [Interactive Deck (with hyperlinks)](https://docs.google.com/presentation/d/18Xv6GBrHkGgPPuQZgS-h1yBUPFkjdlflcxd4-X35M_0/edit?usp=sharing)**
 
-📄 **PDF Deck (stable formatting):**  [Download the PDF](YONA%20LLC.pdf)
+📄 **Presentation Deck**  [Download the PDF](YONA%20LLC.pdf)
+
+> For clickable hyperlinks, please download the **raw PDF file** from the GitHub viewer (press “Download raw file”).  
+> GitHub’s built-in PDF viewer disables link interactivity.
 <img width="1270" height="701" alt="slide" src="https://github.com/user-attachments/assets/d7a7826e-857e-4c0d-954b-2cbd6ec2ae62" />
 
 
